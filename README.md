@@ -11,6 +11,6 @@
   ```
 2. Inicie o frontend:
   ```bash
-    cd client/src && yarn start
+    cd client && yarn start
   ```
 3. No frontend digite algum texto no input e clique em "Iniciar"
